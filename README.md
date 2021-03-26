@@ -1,1 +1,1 @@
-# Creation of a my first Python module
+# Creation of my first Python module
